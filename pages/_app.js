@@ -1,5 +1,5 @@
 import '../Styles/global.css'
-import Header from '../components/header/header'
+import Header from '../components/header'
 
 function MyApp({ Component, pageProps }) {
   return (
